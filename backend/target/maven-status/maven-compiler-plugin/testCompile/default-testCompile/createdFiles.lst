@@ -1,0 +1,4 @@
+com\example\demo\controller\MyEntityController.class
+com\example\demo\DemoApplicationTests.class
+com\example\demo\repository\MyEntityRepository.class
+com\example\demo\model\MyEntity.class
